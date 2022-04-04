@@ -12,10 +12,12 @@ Thanks to the school learning approach we learned to work collaboratively, in pe
 
 ### My Porfolio project
 
-LinkedIn
+LinkedIn<br>
 Twitter
 
 ### My latest Medium articles:
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
 
 
 
