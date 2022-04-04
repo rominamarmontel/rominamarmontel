@@ -21,4 +21,9 @@ Twitter
 - [How to create Static C Libraries](https://medium.com/@romi.varnier/how-to-create-static-c-libraries-d8f0373424c1?source=rss-7076a458c9d0------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
-### Languages and Tools
+### Languages and Tools!
+![unnamed](https://user-images.githubusercontent.com/69083631/161536529-7567330a-55b7-41d5-9694-4cb5aa6b0cd4.png)
+![logo-mysql-170x115](https://user-images.githubusercontent.com/69083631/161536404-86c56baa-abf2-4c7f-94e1-bbd4b6bf0886.png)
+![language-logo-python-44976](https://user-images.githubusercontent.com/69083631/161536355-23d77045-dafe-440d-be75-f1454e09c252.png)
+![download-2](https://user-images.githubusercontent.com/69083631/161536458-4320c0b7-9491-461c-ab84-086a0eb05443.png)
+![download](https://user-images.githubusercontent.com/69083631/161536748-f9fbba8b-b978-409b-a0d5-7bc5dd28b6b2.png)
