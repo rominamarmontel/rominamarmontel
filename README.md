@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### My Story
-Hello! I'm X and currently a student in @Holberton School PARIS 🇫🇷.<br>
+Hello! I'm Romi and currently a student in @Holberton School PARIS 🇫🇷.<br>
 I'd be finishing my studies on this November and I'm looking for an internship in WebDev.<br>
 
 During my first year at Holberton, I worked mainly in C language, Python and bash scripting.<br>
