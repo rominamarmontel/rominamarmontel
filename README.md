@@ -17,7 +17,7 @@ Twitter
 
 ### My latest Medium articles:
 <!-- MEDIUM-STORY-LIST:START -->
-- [Mutable, Immutable… everything is object!](https://medium.com/@romi.varnier/mutable-immutable-everything-is-object-e12394a6dcb6?source=rss-7076a458c9d0------2)
+- [Mutable, Immutable… everything is object!!](https://medium.com/@romi.varnier/mutable-immutable-everything-is-object-e12394a6dcb6?source=rss-7076a458c9d0------2)
 - [The differences between static and dynamic libraries](https://medium.com/@romi.varnier/the-differences-between-static-and-dynamic-libraries-7911e1bfd67?source=rss-7076a458c9d0------2)
 - [What happens when you type `ls -l *.c` in the shell](https://medium.com/@romi.varnier/what-happens-when-you-type-ls-l-c-in-the-shell-d5cc7d893b98?source=rss-7076a458c9d0------2)
 - [How integers are stored in memory using two’s complement?](https://medium.com/@romi.varnier/how-integers-are-stored-in-memory-using-twos-complement-337da47d1962?source=rss-7076a458c9d0------2)
