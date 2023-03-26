@@ -25,7 +25,7 @@ Twitter
 
 ### Languages and Tools!
 ![logo-html-css-javascript](https://startdevup.fr/medias/cache/course_details_image/medias/courses/HtmlCssJavascript.jpg)
-![logo-node.js](https://w7.pngwing.com/pngs/450/470/png-transparent-node-js-angularjs-react-javascript-npm-node-js-angle-text-trademark-thumbnail.png)
+![logo-node.js-170x115](https://w7.pngwing.com/pngs/450/470/png-transparent-node-js-angularjs-react-javascript-npm-node-js-angle-text-trademark-thumbnail.png)
 ![unnamed](https://user-images.githubusercontent.com/69083631/161536529-7567330a-55b7-41d5-9694-4cb5aa6b0cd4.png)
 ![logo-mysql-170x115](https://user-images.githubusercontent.com/69083631/161536404-86c56baa-abf2-4c7f-94e1-bbd4b6bf0886.png)
 ![language-logo-python-44976](https://user-images.githubusercontent.com/69083631/161536355-23d77045-dafe-440d-be75-f1454e09c252.png)
