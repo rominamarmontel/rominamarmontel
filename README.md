@@ -6,9 +6,8 @@ Hello! I'm Romi and living in PARIS 🇫🇷.<br>
 
 During my first year at Programming school, I worked mainly in C language, Python and bash scripting.<br>
 Thus I’m comfortable with web development in Python with focus on unit testing and building MySQL Databases.<br>
-
-I recreated the printf function and Linux Shell with 2 different groups.<br> 
-Thanks to the school learning approach we learned to work collaboratively, in person and remotely.<br>
+After that, I learned HTML, CSS, JavaScript (React, Express, MongoDB) at Fullstack course of BootCamp at IRONHACK, I graduated with "la Certification Professionelle de niveau 6 en tant que Developpeur Web" last March 24th 2023.
+[certification](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/70451045)
 
 ### My Porfolio project
 
