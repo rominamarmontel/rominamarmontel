@@ -10,9 +10,23 @@ After that, I learned HTML, CSS, JavaScript (React, Express, MongoDB) at Fullsta
 [certification](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/70451045)
 
 ### My Porfolio project
+## Impermanence Film Website (May 2023)
+https://github.com/rominamarmontel/impermanence-front<br>
+https://impermanence-front.vercel.app/<br>
+<img width="1257" alt="Screenshot 2023-06-22 at 11 31 31" src="https://github.com/rominamarmontel/rominamarmontel/assets/69083631/f2b4cfbb-f470-4bcd-9903-ce4ee391684a">
+<img width="1381" alt="Screenshot 2023-06-22 at 11 32 27" src="https://github.com/rominamarmontel/rominamarmontel/assets/69083631/ca581ffb-9bbc-4605-abf4-3ea73ee22219">
 
-LinkedIn<br>
-Twitter
+
+## KANRAKU HOSAI Website (e-commerce site/Ironhack final project Mars 2023)
+https://github.com/rominamarmontel/nagasekikaku-frontend<br>
+https://hosai.netlify.app/<br>
+<img width="1395" alt="Screenshot 2023-06-22 at 10 08 32" src="https://github.com/rominamarmontel/rominamarmontel/assets/69083631/dbe3b046-f892-4873-b309-0fa675df6983">
+
+
+## Exquisite Stories (Ironhack 2nd project Feb 2023)
+https://github.com/rominamarmontel/collaborative-project-rm/edit/main/README.md<br>
+https://exquisite-stories-x5xa.onrender.com/<br>
+<img width="1408" alt="221135615-7a1262ab-c33b-4afd-9819-24aa7d61027c-2" src="https://github.com/rominamarmontel/rominamarmontel/assets/69083631/aee68f84-6d60-4d20-a8ef-9d061462254d">
 
 ### My latest Medium articles:
 <!-- MEDIUM-STORY-LIST:START -->
