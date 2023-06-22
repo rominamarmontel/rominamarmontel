@@ -11,14 +11,14 @@ After that, I learned HTML, CSS, JavaScript (React, Express, MongoDB) at Fullsta
 
 ### My Porfolio project
 ## Impermanence Film Website (May 2023)
-https://github.com/rominamarmontel/impermanence-front<br>
+[https://github.com/rominamarmontel/impermanence-front](https://github.com/rominamarmontel/impermanence-front/tree/main#readme)<br>
 https://impermanence-front.vercel.app/<br>
 <img width="1257" alt="Screenshot 2023-06-22 at 11 31 31" src="https://github.com/rominamarmontel/rominamarmontel/assets/69083631/f2b4cfbb-f470-4bcd-9903-ce4ee391684a">
 <img width="1381" alt="Screenshot 2023-06-22 at 11 32 27" src="https://github.com/rominamarmontel/rominamarmontel/assets/69083631/ca581ffb-9bbc-4605-abf4-3ea73ee22219">
 
 
 ## KANRAKU HOSAI Website (e-commerce site/Ironhack final project Mars 2023)
-https://github.com/rominamarmontel/nagasekikaku-frontend<br>
+[https://github.com/rominamarmontel/nagasekikaku-frontend](https://github.com/rominamarmontel/nagasekikaku-frontend#readme)<br>
 https://hosai.netlify.app/<br>
 <img width="1395" alt="Screenshot 2023-06-22 at 10 08 32" src="https://github.com/rominamarmontel/rominamarmontel/assets/69083631/dbe3b046-f892-4873-b309-0fa675df6983">
 
